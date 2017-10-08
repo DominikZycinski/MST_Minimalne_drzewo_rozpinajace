@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\domin\onedrive\dokumenty\visual studio 2017\projects\minimalnedrzeworozpinajace\minimalnedrzeworozpinajace\main.cpp(233): warning C4101: "p": lokalna zmienna, do której nie istnieje odwołanie
+  MinimalneDrzewoRozpinajace.vcxproj -> c:\users\domin\onedrive\dokumenty\visual studio 2017\Projects\MinimalneDrzewoRozpinajace\Debug\MinimalneDrzewoRozpinajace.exe
+  MinimalneDrzewoRozpinajace.vcxproj -> c:\users\domin\onedrive\dokumenty\visual studio 2017\Projects\MinimalneDrzewoRozpinajace\Debug\MinimalneDrzewoRozpinajace.pdb (Partial PDB)
